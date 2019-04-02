@@ -79,6 +79,14 @@
 [Librería de patrones](https://www.toptal.com/designers/subtlepatterns)<br/>
 [Generador de triángulos](https://trianglify.io/)<br/><br/>
 
+## Curvas de Bezier
+
+[Generador de curvas de bezier](http://cubic-bezier.com/)<br/>
+[Otro generador](http://www.css3beziercurve.net/)<br/><br/>
+
+## Animaciones
+
+[Generador de animaciones](http://animista.net/play/basic/rotate/rotate-left)<br/><br/>
 
 ## Guía de estilos
 
