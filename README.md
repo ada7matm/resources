@@ -41,6 +41,17 @@
 [Librería de paletas](https://colorhunt.co/)<br/>
 [Otra librería](https://www.canva.com/colors/combinations/)<br/>
 [Librería de colores flat](http://bootflat.github.io/color-picker.html)<br/>
+
+
+## Gradientes
+
+[Generador de gradientes 1](https://cssgradient.io/)<br/><br/>
+[Generador de gradientes 2](https://www.cssmatic.com/gradient-generator)<br/><br/>
+[Generador de gradientes 3](https://mycolor.space/gradient)<br/><br/>
+[Generador de gradientes 4](https://uigradients.com/)<br/><br/>
+[Generador de gradientes 5](https://www.css-gradient.com/)<br/><br/>
+[Generador de gradientes 6](https://www.gradient-animator.com/)<br/><br/>
+
 [Librería de gradientes](https://webgradients.com/)<br/><br/>
 
 
@@ -87,6 +98,7 @@
 ## Animaciones
 
 [Generador de animaciones](http://animista.net/play/basic/rotate/rotate-left)<br/><br/>
+[Librería de animaciones](https://daneden.github.io/animate.css/)<br/><br/>
 
 ## Guía de estilos
 
@@ -116,4 +128,5 @@
 
 ## Otros
 
-[Lista de más recursos](https://enboard.co/frontend/)
+[Lista de más recursos](https://enboard.co/frontend/)<br/><br/>
+[Otra lista de recursos](https://uigoodies.com/)
