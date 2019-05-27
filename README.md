@@ -45,11 +45,11 @@
 
 ## Gradientes
 
-[Generador de gradientes 1](https://cssgradient.io/)<br/><br/>
-[Generador de gradientes 2](https://www.cssmatic.com/gradient-generator)<br/><br/>
-[Generador de gradientes 3](https://mycolor.space/gradient)<br/><br/>
-[Generador de gradientes 4](https://uigradients.com/)<br/><br/>
-[Generador de gradientes 5](https://www.css-gradient.com/)<br/><br/>
+[Generador de gradientes 1](https://cssgradient.io/)<br/>
+[Generador de gradientes 2](https://www.cssmatic.com/gradient-generator)<br/>
+[Generador de gradientes 3](https://mycolor.space/gradient)<br/>
+[Generador de gradientes 4](https://uigradients.com/)<br/>
+[Generador de gradientes 5](https://www.css-gradient.com/)<br/>
 [Generador de gradientes 6](https://www.gradient-animator.com/)<br/><br/>
 
 [Librería de gradientes](https://webgradients.com/)<br/><br/>
