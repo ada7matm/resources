@@ -97,8 +97,11 @@
 
 ## Animaciones
 
-[Generador de animaciones](http://animista.net/play/basic/rotate/rotate-left)<br/><br/>
-[Librería de animaciones](https://daneden.github.io/animate.css/)<br/><br/>
+[Generador de animaciones](http://animista.net/play/basic/rotate/rotate-left)<br/>
+[Librería de animaciones 1](https://daneden.github.io/animate.css/)<br/>
+[Librería de animaciones 2](http://ianlunn.github.io/Hover/)<br/>
+[Librería de animaciones 3](https://www.minimamente.com/project/magic/)<br/>
+[Hamburguesas](https://jonsuh.com/hamburgers/)<br/><br/>
 
 ## Guía de estilos
 
